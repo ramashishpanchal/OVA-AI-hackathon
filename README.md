@@ -52,6 +52,12 @@ This dataset allows us to **train a functional model from scratch** that capture
 
 ---
 
+## 📓 Kaggle Notebook
+For a detailed walkthrough and interactive exploration of the model, check out our Kaggle notebook:
+[AI-Powered Cyber Threat Intelligence Notebook](https://www.kaggle.com/your-username/your-notebook-name)
+
+---
+
 ## 🏗️ Tech Stack
 - **Backend:** Python  
 - **ML/AI:** Scikit-learn, TensorFlow/Keras (Functional API)  
