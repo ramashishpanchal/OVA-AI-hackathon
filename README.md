@@ -40,7 +40,7 @@ Build a **functional multi-output model** that:
 
 ## 📂 Dataset
 We use the **UNSW-NB15 dataset**:  
-🔗 [UNSW-NB15 on Kaggle](https://www.kaggle.com/datasets/dhoogla/unswnb15)
+🔗 [UNSW-NB15 on Kaggle](https://www.kaggle.com/code/ramashishpanchal/hackathon)
 
 - **Records:** 175,000 network flows  
 - **Features:** 36 attributes (protocol, service, source/destination packets, TCP flags, etc.)  
